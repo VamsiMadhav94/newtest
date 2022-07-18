@@ -1,0 +1,23 @@
+ls -ltra :::: To view inside folder 
+git init :::: to installl git inside folder
+cd.git/ after ls-ltra to view description,hooks,head.config etc...
+cd..
+ls-tlr -- local repositry(view files inside folder)
+vi NAmE( name anything to add file inside) shift+: to come back after text(Escape)
+git status::::: to check status
+git add filename ---- next phase to check git staus(stage 2)
+
+-     git commit-m "Loginform" next 
+
+git add . (dot) commit all files at once           --- git commit -m "LoginForm-Modified" to modify files  --- git log--online to check commit status
+git status to view status        
+
+.
+.
+..
+git branch -a :::::: to check branches
+git checkout branchname ( we need to enter red color branch name like remotes/origin/master) ::::: to see in which branch we exist
+git checkout master ::::: to go back
+git log -oneline :::::: to check how many commits available
+git branch development::::::: to create branch
+git branch -a ::::;to check newly created branch
